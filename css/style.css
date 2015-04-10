@@ -1,4 +1,4 @@
-html, body, section, article, div, img, ul, h1, h2, a {
+html, body, section, article, div, img, ul, li, h1, h2, a{
 	margin: 0 auto;
 	padding: 0;
 	list-style-type: none;
@@ -45,8 +45,20 @@ html, body, section, article, div, img, ul, h1, h2, a {
 	font-size: .9em;
 }
 
+#back-link{
+	font-size: 2em;
+	margin: 0;
+}
+
 #italic{
 	font-style: italic;
+}
+
+blockquote{
+	font-weight: 400;
+	font-style: italic;
+	text-indent: 10% each-line;	
+	padding-bottom: 1.1em;
 }
 
 .resp-video{
@@ -67,7 +79,6 @@ html, body, section, article, div, img, ul, h1, h2, a {
 }
 
 .works>li{
-
 	max-width:100%;
 }
 
