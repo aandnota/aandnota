@@ -8,6 +8,7 @@ html, body, section, article, div, img, ul, li, h1, h2, a{
 
 a {
 	color: #FF6666;
+	height: 0;
 }
 
 .main-image{
@@ -15,20 +16,20 @@ a {
 }
 
 .main-image img{
-	max-width: 100%;
+	width: 100%;
 
 }
 
 .content{
-	max-width: 61.75em;
+	max-width: 50em;
 	margin: 0 auto;
 
 }
 
 .descr {
-	max-width: 50em;
-	padding-left: 1em;
-	padding-right: 1em;
+	max-width: 61.75em;
+	padding-left:.5em;
+	padding-right: .5em;
 	margin-bottom: 3%;
 }
 
@@ -83,8 +84,12 @@ blockquote{
 }
 
 .works>li{
-	max-width:100%;
-	margin: 0;
+	width: 100%;
+	display: inline-block;
+}
+
+.works>li>a{
+	width:100%;
 }
 
 .works>li>a>img{
@@ -98,7 +103,7 @@ blockquote{
 
 @media (min-width: 600px) {
 	.works>li{
-		max-width: 33.333%;
+		max-width: 33.33333%;
 		float: left;
 	}
 }
