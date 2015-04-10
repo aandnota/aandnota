@@ -6,6 +6,10 @@ html, body, section, article, div, img, ul, li, h1, h2, a{
 	text-decoration: none;
 }
 
+a {
+	color: #FF6666;
+}
+
 .main-image{
 	width: 100%;
 }
