@@ -15,7 +15,7 @@ html, body, section, article, div, img, ul, h1, h2 {
 }
 
 .content{
-	width: 61.75em;
+	max-width: 61.75em;
 	margin: 0 auto;
 
 }
@@ -63,4 +63,25 @@ html, body, section, article, div, img, ul, h1, h2 {
 	top: 0;
 	left: 0;
 	position: absolute;
+}
+
+.works>li{
+
+	max-width:100%;
+}
+
+.works>li>img{
+	max-width: 100%;
+}
+
+.projects{
+	padding-left: 1.5em;
+}
+
+
+@media (min-width: 600px) {
+	.works>li{
+		max-width: 33.333%;
+		float: left;
+	}
 }
