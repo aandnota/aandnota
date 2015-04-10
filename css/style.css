@@ -1,8 +1,9 @@
-html, body, section, article, div, img, ul, h1, h2 {
+html, body, section, article, div, img, ul, h1, h2, a {
 	margin: 0 auto;
 	padding: 0;
 	list-style-type: none;
 	font-family: "Open Sans", sans-serif;
+	text-decoration: none;
 }
 
 .main-image{
@@ -70,7 +71,7 @@ html, body, section, article, div, img, ul, h1, h2 {
 	max-width:100%;
 }
 
-.works>li>img{
+.works>li>a>img{
 	max-width: 100%;
 }
 
