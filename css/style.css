@@ -20,6 +20,11 @@ a {
 
 }
 
+article{
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
 .content{
 	max-width: 50em;
 	margin: 0 auto;
