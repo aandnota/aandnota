@@ -65,7 +65,9 @@ article{
 .projects{
 	font-size: 2em;
 	margin-bottom: 0;
+	margin-top: .6em;
 	margin-left: -.3em;
+	font-weight: 300;
 }
 
 #italic{
