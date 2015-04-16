@@ -22,11 +22,16 @@ section{
 }
 
 .grammar{
+	width: 100%;
+}
+
+.grammar>li {
 	width: 50%;
 }
 
-.grammar>img{
+.grammar>li>img{
 	max-width: 100%;
+	vertical-align: bottom;
 }
 
 .main-image img{
@@ -161,4 +166,9 @@ blockquote{
 	section{
 		margin-bottom: 0;
 	}
+
+	.grammar>li {
+	float: left;
+}
+}
 }
