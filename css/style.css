@@ -21,6 +21,14 @@ section{
 	width: 100%;
 }
 
+.grammar{
+	width: 50%;
+}
+
+.grammar>img{
+	max-width: 100%;
+}
+
 .main-image img{
 	width: 100%;
 }
@@ -62,6 +70,10 @@ article{
 #back-link{
 	font-size: 2em;
 	margin: 0;
+}
+
+.teaching>h2{
+	padding-bottom: 1.25em;
 }
 
 .projects{
