@@ -132,4 +132,8 @@ blockquote{
 	.projects{
 		display: none;
 	}
+
+	section{
+		margin-bottom: 0;
+	}
 }
