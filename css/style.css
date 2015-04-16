@@ -122,6 +122,19 @@ blockquote{
 	vertical-align: bottom;
 }
 
+#bellevue{
+	margin-top: 3em;
+	font-weight: 300;
+	font-size: .9em;
+}
+
+#course{
+	margin-top: 2em;
+}
+
+#ctitle{
+	color: #0080FF;
+}
 
 @media (min-width: 600px) {
 	.works>li{
