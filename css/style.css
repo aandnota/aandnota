@@ -26,7 +26,7 @@ section{
 }
 
 .grammar>li {
-	width: 50%;
+	width: 100%;
 }
 
 .grammar>li>img{
@@ -168,7 +168,8 @@ blockquote{
 	}
 
 	.grammar>li {
-	float: left;
+		width: 50%;
+		float: left;
 }
 }
 }
