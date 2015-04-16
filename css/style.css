@@ -26,7 +26,7 @@ section{
 }
 
 article{
-	padding-top: 1.5em;
+	padding-top: .5em;
 	padding-bottom: 1.5em;
 }
 
@@ -51,7 +51,7 @@ article{
 
 .descr>h2{
 	font-weight: 400;
-	margin-bottom: 4%;
+
 }
 
 .descr>p{
@@ -70,6 +70,14 @@ article{
 	margin-top: .6em;
 	margin-left: -.3em;
 	font-weight: 300;
+}
+
+.about{
+	font-size: 2em;
+	margin-bottom: 0;
+	margin-top: .6em;
+	margin-left: -.2em;
+	font-weight: 300;	
 }
 
 #italic{
