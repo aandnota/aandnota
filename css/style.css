@@ -43,6 +43,26 @@ article{
 	padding-bottom: 1.5em;
 }
 
+.notes{
+	padding-bottom: .5em;
+	max-width: 61.75em;
+	padding-left:.5em;
+	padding-right: .5em;
+	margin-bottom: .1%;
+}
+
+.notes>h1{
+	font-weight: 400;
+	font-style: italic;
+	font-size: 4em;	
+	margin: 2% auto;
+}
+
+.notes>h2{
+	font-weight: 400;
+
+}
+
 .content{
 	max-width: 50em;
 	margin: 0 auto;
