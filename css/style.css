@@ -144,6 +144,10 @@ blockquote{
 	position: absolute;
 }
 
+.works{
+	width: 100%;
+}
+
 .works>li{
 	width: 100%;
 	display: inline-block;
