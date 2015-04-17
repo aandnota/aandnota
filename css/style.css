@@ -29,7 +29,7 @@ section{
 	width: 100%;
 }
 
-.grammar>li>img{
+.grammar>li>a>img{
 	max-width: 100%;
 	vertical-align: bottom;
 }
