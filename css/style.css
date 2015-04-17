@@ -60,7 +60,6 @@ article{
 
 .notes>h2{
 	font-weight: 400;
-
 }
 
 .content{
@@ -69,7 +68,7 @@ article{
 }
 
 .descr {
-	max-width: 61.75em;
+	max-width: 50em;
 	padding-left:.5em;
 	padding-right: .5em;
 	margin-bottom: 3%;
