@@ -43,7 +43,7 @@ section{
 }
 
 .content-image img{
-	max-width: 100%;
+	width: 100%;
 }
 
 article{
@@ -76,7 +76,7 @@ article{
 }
 
 #normal {
-	padding: 1em 0 0 0;
+	padding: 1em 0;
 }
 
 .content{
