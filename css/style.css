@@ -48,6 +48,14 @@ section{
 	vertical-align: bottom;
 }
 
+.orn-video{
+	width: 100vw;
+}
+
+.orn-video>li{
+	width: 50vw;
+}
+
 
 
 .win-image{
