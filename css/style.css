@@ -1,5 +1,3 @@
-
-
 html, body, section, article, div, img, ul, li, h1, h2, a{
 	margin: 0 auto;
 	padding: 0;
@@ -40,7 +38,7 @@ section{
 }
 
 .grammar>li {
-	width: 100%;
+	width: 50%;
 }
 
 .grammar>li>a>img{
@@ -49,11 +47,18 @@ section{
 }
 
 .orn-video{
-	width: 100vw;
+	width: 100%;
+	display: flex;
 }
 
 .orn-video>li{
-	width: 50vw;
+	max-width: 33vw;
+	margin: 0;
+}
+
+.orn-video>li>video{
+	object-fit: contain;
+	max-width: 100%;
 }
 
 
@@ -118,26 +123,66 @@ article{
 }
 
 .descr {
-	max-width: 50em;
+	max-width: 50vw;
 	padding-left:.5em;
 	padding-right: .5em;
+	margin: 2rem auto;
 }
 
-.descr>h1{
+.descr h1{
 	font-weight: 400;
 	font-style: italic;
 	font-size: 4em;	
-	margin: 2% auto;
+	margin: 1.5rem auto;
 }
 
-.descr>h2{
+.descr h2{
 	font-weight: 400;
 
 }
 
-.descr>p{
+.descr p{
 	font-weight: 300;
 	font-size: .9em;
+}
+
+.index{
+	max-width: 95vw;
+	margin: 2rem auto;
+	display: flex;
+}
+
+.index>div#name{
+	width: 48%;
+	margin: 0;
+	font-size: 1.5rem;
+}
+
+.index>div#details{
+	width: 48%;
+	margin: 0;
+}
+
+.index h1{
+	font-weight: 400;
+	font-style: italic;
+	font-size: 4em;	
+	margin: 0 auto;
+}
+
+.index h2{
+	font-weight: 400;
+
+}
+
+.index p{
+	font-weight: 300;
+	font-size: .9em;
+}
+
+.notes{
+	max-width: 50vw;
+	padding: 0 .5rem;
 }
 
 .notes>p{
@@ -155,8 +200,27 @@ article{
 	margin: 0;
 }
 
-.teaching>h2{
+.teaching{
+	max-width: 50vw;
+	padding: 0 .5rem;
+}
+
+.teaching h1{
+	font-weight: 400;
+	font-style: italic;
+	font-size: 4em;	
+	margin: 0 auto;
+}
+
+.teaching h2{
+	font-weight: 400;
 	padding-bottom: 1.25em;
+
+}
+
+.teaching p{
+	font-weight: 300;
+	font-size: .9em;
 }
 
 .projects{
