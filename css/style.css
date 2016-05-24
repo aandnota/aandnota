@@ -239,6 +239,17 @@ article{
 	font-weight: 300;	
 }
 
+article.cv{
+	width: 90vw;
+	display: flex;
+}
+
+.cv h1{
+	font-size: 2rem;
+	font-weight: 400;
+	font-style: italic;
+}
+
 #italic{
 	font-style: italic;
 }
