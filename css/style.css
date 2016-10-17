@@ -33,6 +33,14 @@ section{
 	width: 100%;
 }
 
+.thirds-imgs{
+	width: 33.33333%;
+}
+
+.thirds-imgs>img{
+	width: 100%;
+}
+
 .grammar{
 	width: 100%;
 }
@@ -100,7 +108,7 @@ article{
 .notes>h1{
 	font-weight: 400;
 	font-style: italic;
-	font-size: 4em;	
+	font-size: 4em;
 	margin: 2% auto;
 }
 
@@ -132,7 +140,7 @@ article{
 .descr h1{
 	font-weight: 400;
 	font-style: italic;
-	font-size: 4em;	
+	font-size: 4em;
 	margin: 1.5rem auto;
 }
 
@@ -144,6 +152,13 @@ article{
 .descr p{
 	font-weight: 300;
 	font-size: .9em;
+}
+
+.ev-imgs{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	flex-wrap: wrap;
 }
 
 .index{
@@ -173,7 +188,7 @@ article{
 .index h1{
 	font-weight: 400;
 	font-style: italic;
-	font-size: 4em;	
+	font-size: 4em;
 	margin: 0 auto;
 }
 
@@ -215,7 +230,7 @@ article{
 .teaching h1{
 	font-weight: 400;
 	font-style: italic;
-	font-size: 4em;	
+	font-size: 4em;
 	margin: 0 auto;
 }
 
@@ -243,7 +258,7 @@ article{
 	margin-bottom: 0;
 	margin-top: .6em;
 	margin-left: -.2em;
-	font-weight: 300;	
+	font-weight: 300;
 }
 
 article.cv{
@@ -291,7 +306,7 @@ article.cv{
 blockquote{
 	font-weight: 400;
 	font-style: italic;
-	text-indent: 10% each-line;	
+	text-indent: 10% each-line;
 	padding-bottom: 1.1em;
 }
 
