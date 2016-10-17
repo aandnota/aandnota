@@ -33,6 +33,14 @@ section{
 	width: 100%;
 }
 
+.half-imgs{
+	width: 50%;
+}
+
+.half-imgs>img{
+	width: 100%;
+}
+
 .thirds-imgs{
 	width: 33.33333%;
 }
