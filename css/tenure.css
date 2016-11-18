@@ -13,9 +13,38 @@ body{
 
 #text{
   color: #7db5e9;
+  font-size: 3vw;
+  -ms-align-self: flex-start;
+  align-self: flex-start;
+}
+
+#text>p{
+  margin: 0;
+  padding: 0;
+  font-style: italic;
+
 }
 
 #clock{
   font-size:7vw;
+  color: #f5b342;
+  padding: 0;
+  margin: 0;
+}
+
+#notice{
+  font-size: .75rem;
+  color: #bbbbbb;
+  font-style: italic;
+
+  -ms-align-self: flex-end;
+  align-self: flex-end;
+}
+
+a{
+  color: #ee7564;
+}
+
+a:visited{
   color: #f5b342;
 }
