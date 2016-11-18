@@ -1,0 +1,21 @@
+body{
+  font-family: "Open Sans", sans-serif;
+  background-color: #505050;
+}
+
+.content{
+  width: 75vw;
+  margin: 10vw auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#text{
+  color: #7db5e9;
+}
+
+#clock{
+  font-size:7vw;
+  color: #f5b342;
+}
