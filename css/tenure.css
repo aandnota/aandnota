@@ -26,7 +26,7 @@ body{
 }
 
 #clock{
-  font-size:20vw;
+  font-size:7vw;
   color: #f5b342;
   padding: 0;
   margin: 0;
@@ -47,4 +47,10 @@ a{
 
 a:visited{
   color: #f5b342;
+}
+
+@media (max-width: 800px) {
+  #clock{
+    font-size: 20vw;
+  }
 }
