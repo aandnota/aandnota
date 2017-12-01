@@ -17,7 +17,7 @@ section{
 
 .main-image{
 	width: 100%;
-	height: 75vh;
+	height: 70vh;
 	overflow: hidden;
 }
 
@@ -396,14 +396,6 @@ blockquote{
 	.grammar>li {
 		width: 50%;
 		float: left;
-	}
-
-	.thisisfine>li{
-		width: 33%;
-		float: left;
-	}
-
-	.thisisfine>li img{
-		max-width: 100%;
-	}
+}
+}
 }
