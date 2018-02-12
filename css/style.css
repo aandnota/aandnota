@@ -379,6 +379,11 @@ blockquote{
 	color: #0080FF;
 }
 
+ul.thisisfine{
+	width: 100%;
+	margin-bottom:  3rem;
+}
+
 @media (min-width: 600px) {
 	.works>li{
 		max-width: 33.33333%;
@@ -398,9 +403,14 @@ blockquote{
 		float: left;
 	}
 
+	.thisisfine{
+		width: 100vw;
+		display: flex;
+		justify-content: space-between;
+	}
+
 	.thisisfine>li{
-		width: 33%;
-		float: left;
+		width: 33.333%;
 	}
 
 	.thisisfine>li img{
