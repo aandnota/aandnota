@@ -409,6 +409,10 @@ ul.thisisfine{
 		justify-content: space-between;
 	}
 
+	li#install{
+		width: 50%;
+	}
+
 	.thisisfine>li{
 		width: 33.333%;
 	}
