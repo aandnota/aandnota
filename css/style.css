@@ -142,7 +142,7 @@ article{
 	max-width: 75vw;
 	padding-left:.5em;
 	padding-right: .5em;
-	margin: 2rem auto;
+	margin: 5vw auto 2rem auto;
 }
 
 .descr h1{
@@ -381,7 +381,7 @@ blockquote{
 
 ul.thisisfine{
 	width: 100%;
-	margin-bottom:  3rem;
+	margin-bottom:  15vw;
 }
 
 @media (min-width: 600px) {
