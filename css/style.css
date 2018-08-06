@@ -384,6 +384,35 @@ ul.thisisfine{
 	margin-bottom: 2vw;
 }
 
+.hts{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.hts>li{
+	width: 50%;
+	margin:  0;
+}
+
+.hts>li img{
+	max-width: 100%;
+}
+
+.hts-video{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10vw;
+}
+
+.hts-video>li{
+	width: 30%;
+}
+
+.hts-video>li video{
+	width: 100%;
+}
+
 @media (min-width: 600px) {
 	.works>li{
 		max-width: 33.33333%;
