@@ -381,7 +381,7 @@ blockquote{
 
 ul.thisisfine{
 	width: 100%;
-	margin-bottom:  15vw;
+	margin-bottom: 2vw;
 }
 
 @media (min-width: 600px) {
