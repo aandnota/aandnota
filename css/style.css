@@ -452,4 +452,27 @@ ul.thisisfine{
 	.notes{
 		max-width: 100vw;
 	}
+
+	.index{
+		display: inline;
+		margin:  0 auto;
+	}
+
+	.index>div#name{
+		width: 95%;
+		margin: 0 auto;
+	}
+
+	.index>div#details{
+		width: 95%;
+		margin: 0 auto;
+	}
+
+	.thisisfine>li>a{
+		width: 100%;
+	}
+
+	.thisisfine>li>a>img{
+		width: 100%;
+	}
 }
