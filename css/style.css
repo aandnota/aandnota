@@ -210,6 +210,7 @@ article{
 .notes{
 	max-width: 50vw;
 	padding: 0 .5rem;
+	margin-bottom: 2vw;
 }
 
 .notes>p{
