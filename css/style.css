@@ -462,6 +462,10 @@ ul.thisisfine{
 }
 
 @media (max-width: 600px) {
+	.main-image{
+		height: 30vh;
+	}
+
 	.notes{
 		max-width: 100vw;
 	}
