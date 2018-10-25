@@ -408,11 +408,19 @@ ul.thisisfine{
 }
 
 .hts-video>li{
-	width: 30%;
+	width: 50%;
 }
 
 .hts-video>li video{
 	width: 100%;
+}
+
+#first-thing{
+	margin-bottom: 0;
+}
+
+#spock{
+	margin-top: 0;
 }
 
 @media (min-width: 600px) {
