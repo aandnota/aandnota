@@ -151,7 +151,7 @@ article{
 
 .descr h2{
 	font-weight: 400;
-
+	font-size: 2rem;
 }
 
 .descr p{
@@ -265,6 +265,10 @@ article{
 	margin-top: .6em;
 	margin-left: -.2em;
 	font-weight: 300;
+}
+
+#subtopic{
+	margin-top: 5rem;
 }
 
 article.cv{
