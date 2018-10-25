@@ -466,6 +466,10 @@ ul.thisisfine{
 		height: 30vh;
 	}
 
+	.descr h1{
+		font-size: 3rem;
+	}
+
 	.notes{
 		max-width: 100vw;
 	}
