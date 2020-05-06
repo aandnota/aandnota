@@ -419,6 +419,20 @@ ul.thisisfine{
 	width: 100%;
 }
 
+.paradise{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.paradise > li{
+	width: 33%;
+}
+
+.paradise > li img{
+	max-width: 100%;
+}
+
 #first-thing{
 	margin-bottom: 0;
 }
