@@ -6,6 +6,10 @@ html, body, section, article, div, img, ul, li, h1, h2, a{
 	text-decoration: none;
 }
 
+body{
+	background-color: #fff;
+}
+
 a {
 	color: #FF6666;
 	height: 0;
@@ -314,7 +318,7 @@ article.cv{
 }
 
 #illustrations{
-	
+
 }
 
 blockquote{
