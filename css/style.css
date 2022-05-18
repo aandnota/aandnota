@@ -27,6 +27,8 @@ section{
 
 .main-image img{
 	width: 100%;
+
+	transition: transform 1s linear;
 }
 
 .sec-image {
@@ -149,7 +151,7 @@ article{
 .descr h1{
 	font-weight: 400;
 	font-style: italic;
-	font-size: 4em;
+	font-size: 8vw;
 	margin: 1.5rem auto;
 }
 
@@ -483,13 +485,29 @@ ul.thisisfine{
 	}
 }
 
-@media (max-width: 600px) {
+@media	(max-width: 900px){
 	.main-image{
-		height: 30vh;
+		height: 60vh;
 	}
 
+	.main-image img{
+		transform: scale(2) translateY(20%);
+
+		transition: transform 1s linear;
+	}
+
+	
+}
+
+@media (max-width: 600px) {
+	.main-image{
+		height: 50vh;
+	}
+
+	
+
 	.descr h1{
-		font-size: 3rem;
+		font-size: 10vw;
 	}
 
 	.notes{
