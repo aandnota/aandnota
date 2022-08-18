@@ -257,6 +257,10 @@ article{
 	font-size: .9em;
 }
 
+.teaching p#current{
+	font-size: 1.5rem;
+}
+
 .projects{
 	font-size: 2em;
 	margin-bottom: 0;
@@ -271,6 +275,15 @@ article{
 	margin-top: .6em;
 	margin-left: -.2em;
 	font-weight: 300;
+}
+
+div#officehours{
+	width: 100vw;
+	height: 100vh;
+}
+
+div#officehours>iframe{
+	width: 100%;
 }
 
 #subtopic{
