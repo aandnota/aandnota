@@ -282,7 +282,7 @@ div#officehours{
 	height: 100vh;
 }
 
-div#officehours>iframe{
+div#officehours>video{
 	width: 100%;
 	height: 100%;
 }
