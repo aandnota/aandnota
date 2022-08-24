@@ -463,6 +463,23 @@ ul.thisisfine{
 	margin-top: 0;
 }
 
+div.fxthr{
+	width: 100%;
+	height: 42.1875vw;
+	display: flex;
+	flex-wrap:wrap;
+}
+
+div.fxthr>div.fxthr-vid{
+	width: 50%;
+	height: 21.09375vw;
+}
+
+div.fxthr-vid>iframe{
+	width: 100%;
+	height: 100%;
+}
+
 @media (min-width: 600px) {
 	.works>li{
 		max-width: 33.33333%;
