@@ -465,19 +465,19 @@ ul.thisisfine{
 
 div.fxthr{
 	width: 100%;
-	height: 42.1875vw;
+	
 	display: flex;
 	flex-wrap:wrap;
 }
 
 div.fxthr>div.fxthr-vid{
 	width: 50%;
-	height: 21.09375vw;
+	height: 25.125%;
 }
 
 div.fxthr-vid>iframe{
 	width: 100%;
-	height: 100%;
+	height: 56.25%;
 }
 
 @media (min-width: 600px) {
