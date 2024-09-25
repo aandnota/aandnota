@@ -9,8 +9,22 @@
   </head>
   <body>
 
-    <model-viewer alt="mantest" src="../../models/oldjimcornerfigure.glb" ar ar-scale="fixed" autoplay shadow-intensity="1" camera-controls touch-action="pan-y"  xr-environment>
+    <model-viewer id="oldjim" alt="mantest" src="../../models/oldjimcornerfigure.glb" ar ar-scale="fixed" autoplay shadow-intensity="1" camera-controls touch-action="pan-y"  xr-environment environment-image="../../models/hdr/HdrSkyEvening002_HDR_16K.jpg" skybox-height="1.5m">
     </model-viewer>   
+
+    <script>
+      (() => {
+        const modelViewer = document.querySelector('#oldjim');
+        const time = performance.now();
+      
+        const animate = (now) => {
+          modelViewer.exposure = oscillate(0, 2, 4000, now - time);
+          requestAnimationFrame(animate);
+        };
+      
+        animate();
+      })();
+      </script>
   
   </body>
 </html>
