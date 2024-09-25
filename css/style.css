@@ -465,9 +465,12 @@ ul.thisisfine{
 
 div.fxthr{
 	width: 100%;
-	
 	display: flex;
 	flex-wrap:wrap;
+}
+
+div.fxthr-vid{
+	margin: 1rem;
 }
 
 div.fxthr>div.fxthr-vid{
