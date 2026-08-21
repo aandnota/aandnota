@@ -342,7 +342,7 @@ article.cv{
 blockquote{
 	font-weight: 400;
 	font-style: italic;
-	text-indent: 10% each-line;
+	/* text-indent: 10% each-line; */
 	padding-bottom: 1.1em;
 	margin-top: .5rem;
 }
