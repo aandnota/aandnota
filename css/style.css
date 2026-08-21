@@ -366,6 +366,8 @@ blockquote{
 
 .works{
 	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .proj-descr{
@@ -379,16 +381,16 @@ blockquote{
 	font-style: italic;
 }
 
-.works>li{
-	width: 100%;
-	display: inline-block;
+.works>div{
+	width: 33.333%;
+
 }
 
-.works>li>a{
+.works>div>a{
 	width:100%;
 }
 
-.works>li>a>img{
+.works>div>a>img{
 	max-width: 100%;
 	vertical-align: bottom;
 }
