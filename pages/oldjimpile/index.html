@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>OldJim Corner</title>
+        <link rel="stylesheet" href="../../css/oldjimcorner.css">
+
+        <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+
+    </head>
+    <body>
+
+        <div class="viewer-wrapper">
+            <model-viewer
+            src="oldjimpile.glb"
+            ios-src="oldjimpile.usdz"
+            alt="An animated 3D model"
+            poster="oldjimpile.png"
+            shadow-intensity="1"
+            shadow-softness="0.8"
+            exposure="1.0"
+            camera-controls
+            auto-rotate
+            autoplay
+            animation-name="Walk"
+            ar
+            ar-modes="webxr scene-viewer quick-look">
+
+            <button slot="ar-button" id="ar-button">
+                View in your space
+            </button>
+
+            <div slot="progress-bar" class="progress-bar">
+                <div class="update-bar"></div>
+            </div>
+
+            </model-viewer>
+
+            <p class="caption">Tap and drag to rotate &middot; Pinch to zoom &middot; Tap "View in your space" for AR</p>
+        </div>
+
+        <script>
+            // Update the loading progress bar as the model streams in
+            const modelViewer = document.querySelector('model-viewer');
+
+            modelViewer.addEventListener('progress', (event) => {
+            const progressBar = event.target.querySelector('.update-bar');
+            const percentage = event.detail.totalProgress * 100;
+            progressBar.style.width = `${percentage}%`;
+            if (event.detail.totalProgress === 1) {
+                event.target.setAttribute('data-loaded', 'true');
+            }
+            });
+        </script>
+
+    </body>
+</html>
