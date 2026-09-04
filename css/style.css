@@ -294,7 +294,7 @@ div#officehours>img{
 }
 
 article.cv{
-	width: 90vw;
+	width: 75vw;
 	display: flex;
 }
 
@@ -366,22 +366,40 @@ blockquote{
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-between;
 }
 
 .proj-descr{
-	padding-left: 1vw;
+	width: 33.333%;
 	margin-top: 5vw;
 	margin-bottom: 1.25vw;
 }
 
+
 .proj-descr>h2{
 	font-weight: 300;
 	font-style: italic;
+	margin-left: 2vw;
+}
+
+.works>li{
+	width: 33.333%;
+	margin: 0;
+
+}
+
+.works>li>a{
+	width:100%;
+}
+
+.works>li>a>img{
+	max-width: 100%;
+	vertical-align: bottom;
 }
 
 .works>div{
 	width: 33.333%;
-
+	margin: 0;
 }
 
 .works>div>a{
