@@ -510,6 +510,26 @@ article#smalldeaths>iframe:first-of-type{
 	margin-top: 2vw;
 }
 
+article#hiccupeat>iframe{
+	margin-bottom: 2vw;
+}
+
+article#hiccupeat>iframe:first-of-type{
+	margin-top: 2vw;
+}
+
+article#hiccupeat>div#images{
+	margin-top: 2vw;
+}
+
+article#hiccupeat>div#images{
+	width: 100%;
+}
+
+article#hiccupeat>div#images>img{
+	width: 100%;
+}
+
 @media (min-width: 600px) {
 	.works>li{
 		max-width: 33.33333%;
