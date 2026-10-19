@@ -530,15 +530,24 @@ article#hiccupeat>div#images>img{
 	width: 100%;
 }
 
-@media (min-width: 600px) {
-	.works>li{
+@media (max-width: 600px) {
+	/* .works>li{
 		max-width: 33.33333%;
 		float: left;
+	} */
+
+	.works{
+		margin-top: 5vw;
 	}
 
-	.projects{
-		display: none;
+	.works>div{
+		width: 100%;
+		margin: 0;
 	}
+
+	/* .projects{
+		display: none;
+	} */
 
 	section{
 		margin-bottom: 0;
