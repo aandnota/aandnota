@@ -1,0 +1,48 @@
+/* Chat widget (assets/chat.js). Uses the colours and font from style.css. */
+.chat-toggle {
+  position: fixed; right: 1.25rem; bottom: 1.25rem; z-index: 50;
+  font: 400 1rem var(--font, sans-serif);
+  color: var(--link, #f66); background: var(--bg, #fff);
+  border: 1px solid currentColor; padding: .45rem .9rem; cursor: pointer;
+}
+.chat-toggle:hover { background: var(--link, #f66); color: var(--bg, #fff); }
+.chat-toggle:focus-visible, .chat-panel button:focus-visible { outline: 2px solid var(--ink, #000); outline-offset: 2px; }
+
+.chat-panel {
+  position: fixed; right: 1.25rem; bottom: 1.25rem; z-index: 50;
+  width: min(380px, calc(100vw - 2.5rem)); height: min(540px, calc(100vh - 2.5rem));
+  display: flex; flex-direction: column;
+  background: var(--bg, #fff); color: var(--ink, #000);
+  border: 1px solid var(--ink, #000);
+  font: 400 .95rem/1.45 var(--font, sans-serif);
+}
+.chat-panel[hidden] { display: none; }
+
+.chat-head { display: flex; align-items: center; gap: .75rem; padding: .55rem .75rem; border-bottom: 1px solid var(--ink, #000); }
+.chat-head .chat-title { flex: 1; min-width: 0; font-style: italic; }
+.chat-head button { font: inherit; background: none; border: 0; padding: 0; cursor: pointer; color: var(--link, #f66); }
+.chat-close { font-size: 1.3rem !important; line-height: 1; }
+
+.chat-log { flex: 1; overflow-y: auto; padding: .75rem; display: flex; flex-direction: column; gap: .6rem; }
+.chat-msg { max-width: 88%; }
+.chat-msg p { margin: 0 0 .5em; }
+.chat-msg p:last-child { margin-bottom: 0; }
+.chat-assistant { align-self: flex-start; }
+.chat-user { align-self: flex-end; padding: .4rem .65rem; background: #f2f2f2; }
+.chat-pending { opacity: .5; }
+.chat-error { align-self: flex-start; color: var(--link, #f66); font-size: .85rem; }
+
+.chat-form { display: flex; gap: .5rem; padding: .6rem .75rem; border-top: 1px solid var(--ink, #000); }
+.chat-input {
+  flex: 1; resize: none; font: inherit; color: inherit; background: transparent;
+  border: 0; padding: .2rem 0; outline: none; max-height: 120px;
+}
+.chat-send { font: inherit; background: none; border: 0; color: var(--link, #f66); cursor: pointer; padding: 0; }
+.chat-send:disabled { opacity: .4; cursor: default; }
+.chat-note { margin: 0; padding: 0 .75rem .55rem; font-size: .72rem; opacity: .55; }
+
+@media (max-width: 520px) {
+  .chat-panel { right: 0; bottom: 0; width: 100vw; height: 75vh; border-width: 1px 0 0; }
+  .chat-toggle { right: .75rem; bottom: .75rem; }
+}
+@media print { .chat-toggle, .chat-panel { display: none !important; } }
