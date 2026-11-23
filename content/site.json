@@ -1,0 +1,1273 @@
+{
+  "title": "Alex Myers",
+  "logo": "imgs/name.gif",
+  "tagline": "Media artworks, landscapes, and installations.",
+  "intro": "Hi. I'm Alex. I make weird things. Usually by breaking other things into tiny pieces and then reassembling them.",
+  "projects": [
+    {
+      "title": "Small Deaths",
+      "year": "2021-2026",
+      "subtitle": "Animations made between 2021 - 2026",
+      "slug": "small-deaths",
+      "thumb": "imgs/smalldeaths/smalldeaths-thumb.png",
+      "description": "Part of an exhibition at [NP3](http://np3.nu), 2025\n\nWithin the Terrors of Thought, Various Everyday Behaviours, and Not in My Backyard form a three-part series of 3D animated loops, called Small Deaths, in which I confront death, grief, and displacement through a recurring figure — a stand-in for myself — that migrates across each piece's landscape. I build all three in Blender from a mix of photoscanned and hand-modeled forms, and I deliberately retain the software's own wireframe UI elements in the final render, exposing the scaffolding of my own construction: an attempt to diagram and measure experiences — vertigo, ritual, displacement — that resist being measured at all.\n\nEach piece isolates a different register of loss for me. In Within the Terrors of Thought, I suspend the figure atop a cratered stone in a dizzying vertical orbit, rendering grief as disorientation rather than narrative. In Various Everyday Behaviours, I stage a ritual cycle of ascent and descent, a body dismembered and carried in procession as flowers bloom and recede — the sublime, inarticulate fact of being alive set against the mundane, and against the certainty that I will die. In Not in My Backyard, I move the figure through a scorched, wind-scoured landscape littered with the debris of an invented religion, carrying the last living thing between an above-world and an underworld beneath a wrecked satellite dish — displacement with nowhere left to land. Together, the three pieces trace a single body through mourning, ritual, and exile.\n\nEach work is a seamless loop lasting close to three minutes, for a combined runtime of just over six minutes. I conceived, animated, and sound-designed all three alone, with no collaborators. I score each with only ambient/environmental sound — wind, fabric, fire, forest and animal noise, tree limbs, microphone feedback — rather than music, keeping the works quiet and immersive rather than directive.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/smalldeaths/smalldeaths-header.png",
+          "alt": "grammar"
+        },
+        {
+          "type": "youtube",
+          "id": "I8aW_-qWwBY",
+          "alt": ""
+        },
+        {
+          "type": "youtube",
+          "id": "hNRG8GJNK5k",
+          "alt": ""
+        },
+        {
+          "type": "youtube",
+          "id": "zxvhYXpHAqM",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "HICCUP & Eat All The Things",
+      "year": "2025",
+      "subtitle": "Interactive Art Game Remaster, 2025",
+      "slug": "hiccup-eat-all-the-things",
+      "thumb": "imgs/hiccupeatt/emma-menu.jpg",
+      "description": "On exhibition at The Rem Koolhas VIDEOBUSSTOP at eMMaplein by [NP3](http://np3.nu), 2025\n\nThis project brings together two remastered art games—HICCUP and Eat All the Things—originally commissioned by the Dutch art center NP3 in 2014 for the Rem Koolhaas–designed VIDEOBUSSTOP in Groningen, The Netherlands. Conceived specifically for the urban public context of the interactive bus stop display, these works explore the expressive and poetic potential of game mechanics as artistic media. In 2025, both titles were revisited and updated for the grand reopening of the VIDEOBUSSTOP, offering contemporary audiences a renewed encounter with playful, embodied, and everyday experiences through digital form.\n\nHICCUP was inspired by the artist’s personal experience of having hiccups for 28 consecutive hours. This involuntary rhythm became the conceptual and mechanical foundation of the game, which translates the spasmodic interruptions of hiccupping into a kinetic, sometimes frustrating, yet humorous form of play. Through this mechanic, the game foregrounds the body’s unruly rhythms and their capacity to disrupt habitual patterns of control and communication.\n\nEat All the Things emerged from observing the artist’s young daughter as she learned to feed herself—an act both chaotic and full of discovery. The game embraces that exploratory messiness, inviting players into a world of voracious curiosity and tactile interaction. Its mechanics are deliberately intuitive and childlike, highlighting processes of learning, desire, and sensory engagement.\n\nTogether, these two works explore how simple, bodily experiences—hiccupping and eating—can become frameworks for aesthetic reflection and playful experimentation. Installed in a public transit site, the games transform everyday waiting time into moments of embodied play and contemplation, extending the language of contemporary art into the urban fabric.\n\n[Play them both on Itch.io](https://aandnota.itch.io/hiccup-eatt)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/hiccupeatt/emma-menu.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "youtube",
+          "id": "VdwFS_V_cLU",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "imgs/hiccupeatt/emma-eatt-screen1.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "imgs/hiccupeatt/emma-hiccup-screen2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "This Acre of Little Wounds",
+      "year": "2023",
+      "subtitle": "3D printed, articulated, modular sculptures",
+      "slug": "this-acre-of-little-wounds",
+      "thumb": "imgs/acre/acre-thumbnail.jpg",
+      "description": "The Acreage Dolls are modular, articulated 3D printed sculptures - assemblages of found and modified digital objects. Their individual parts create a mythology of life’s inevitable wounds and the subsequent adaptation to those wounds. Despite their stillness, the Dolls are action figures. Their cultivated parts and contexts speak to what’s been lived through, what’s survived, and, as a result, what choices are now available to each Doll moving forward. They are illustrations of forced adaptation, acceptance, and strength born through compassionate collaboration.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/acre/acre-thumbnail.jpg",
+          "alt": "acre"
+        },
+        {
+          "type": "image",
+          "src": "imgs/acre/riversidecounty.jpg",
+          "alt": "This Acre of Little Wounds",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/acre/sandiegocounty.jpg",
+          "alt": "This Acre of Little Wounds",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/acre/buffalocounty1.jpg",
+          "alt": "This Acre of Little Wounds",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/acre/buffalocounty2.jpg",
+          "alt": "This Acre of Little Wounds",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/acre/douglascounty.jpg",
+          "alt": "This Acre of Little Wounds",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/acre/sarpycounty1.jpg",
+          "alt": "This Acre of Little Wounds",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/acre/sarpycounty2.jpg",
+          "alt": "This Acre of Little Wounds",
+          "width": "half"
+        }
+      ]
+    },
+    {
+      "title": "Fxthr & Historical Romance Performances",
+      "year": "2020 & 2021",
+      "subtitle": "animations and performance",
+      "slug": "fxthr-historical-romance-performance-visuals",
+      "thumb": "imgs/fxthr/smoldering-thumb.jpg",
+      "description": "",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/fxthr/smoldering-thumb.jpg",
+          "alt": "fxthr"
+        },
+        {
+          "type": "vimeo",
+          "id": "742765338",
+          "hash": "28f3f0539e",
+          "alt": "laying"
+        },
+        {
+          "type": "text",
+          "body": "# Historical Romance, Nov 2021\n\n## Performance, VJ Clips"
+        },
+        {
+          "type": "vimeo",
+          "id": "761180624",
+          "hash": "f3e246a225",
+          "alt": "Alex Myers + Historical Romance - Promotional Video"
+        },
+        {
+          "type": "vimeo",
+          "id": "742754263",
+          "hash": "ec6d423ff2",
+          "alt": "Smoldering"
+        },
+        {
+          "type": "vimeo",
+          "id": "742761731",
+          "hash": "04b27e82c2",
+          "alt": "smolder-follow.mp4"
+        },
+        {
+          "type": "vimeo",
+          "id": "742761778",
+          "hash": "2ed4e9dc65",
+          "alt": "Smoldering-alt"
+        },
+        {
+          "type": "vimeo",
+          "id": "742767022",
+          "hash": "e4681b4e7c",
+          "alt": "altar-lefttoright.mp4"
+        },
+        {
+          "type": "vimeo",
+          "id": "742767336",
+          "hash": "2911720b9f",
+          "alt": "altar-overunder"
+        }
+      ]
+    },
+    {
+      "title": "GATE - Everyone is Trapped in Someone Else's Paradise",
+      "year": "2019",
+      "subtitle": "a Residency/Commission for The Spectacular House's GATE Gallery / animation + 3D modeling / December 2019 - January 2020",
+      "slug": "gate-everyone-is-trapped-in-someone-elses-paradise",
+      "thumb": "imgs/trapped/trapped-thumb.jpg",
+      "description": "# Shown as part of the PIKSEL Festival for Free/Open Source Art & Technology / November 2021\n\nEveryone is Trapped in Someone Else’s Paradise is a video installation of three looped-animations. The animations are made using the open source software Blender with some photoscanned assets from the free Quixel Megascans library.\n\nThe animations depict three portraits of a being seemingly stuck in an endless situation beyond their control. These three scenes speak to the timeless impulse to wish for what you don’t have and to blind to what you do have.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/trapped/trapped-header.jpg",
+          "alt": "Trapped"
+        },
+        {
+          "type": "video",
+          "src": "imgs/trapped/trapped1.mp4",
+          "alt": "",
+          "loop": false,
+          "poster": "imgs/trapped/trapped1-poster.jpg",
+          "width": "third"
+        },
+        {
+          "type": "video",
+          "src": "imgs/trapped/trapped2.mp4",
+          "alt": "",
+          "loop": false,
+          "poster": "imgs/trapped/trapped2-poster.jpg",
+          "width": "third"
+        },
+        {
+          "type": "video",
+          "src": "imgs/trapped/trapped3.mp4",
+          "alt": "",
+          "loop": false,
+          "poster": "imgs/trapped/trapped3-poster.jpg",
+          "width": "third"
+        }
+      ]
+    },
+    {
+      "title": "Death Has a Small Voice",
+      "year": "2019",
+      "subtitle": "3D printed modular action figures & laser cut ruined environments.",
+      "slug": "everyone-lives-in-someone-elses-paradise",
+      "thumb": "imgs/paradise/paradise-thumb.jpg",
+      "description": "",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise-header.jpg",
+          "alt": "human terrian systems"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise1.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise2.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise3.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise4.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise5.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise6.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise7.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise8.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/paradise/paradise9.jpg",
+          "alt": "everyone lives in someone else's paradise",
+          "width": "third"
+        }
+      ]
+    },
+    {
+      "title": "Prepared Controllers",
+      "year": "2018",
+      "subtitle": "",
+      "slug": "prepared-controllers",
+      "thumb": "imgs/prepcont/ps3-thumb.jpg",
+      "description": "A series of prepared controllers designed to distort, discourage, and discomfort players in an effort to help them expand their play possibilities.\nStill in Progress",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/prepcont/wii-1.jpg",
+          "alt": "Prepared Wiimote"
+        },
+        {
+          "type": "image",
+          "src": "imgs/prepcont/ps3-1.jpg",
+          "alt": "prepared controllers"
+        },
+        {
+          "type": "image",
+          "src": "imgs/prepcont/xbox-1.jpg",
+          "alt": "prepared controllers"
+        }
+      ]
+    },
+    {
+      "title": "Human Terrain Systems",
+      "year": "2018",
+      "subtitle": "Art Mod of custom assets built for the city-simulation game Cities:Skylines, and standalone Animations",
+      "slug": "human-terrain-systems",
+      "thumb": "imgs/hts/hts1-thumb.jpg",
+      "description": "The system’s assets were inspired by the USMIL operational doctrine by the same name. This doctrine, in place between 2007 - 2014, aimed to militarize anthropological knowledge and practices. In essence, the US military employed anthropologists and other social scientists with the goal of weaponizing cultures of foreign nations, a sort of modern-day colonialism. Rather than wage war through brute force, the US military determined that it would be more effective both monetarily as well as with regards to public relations, to seek to subjugate and destroy the cultural identities of those countries with whom we were at war.\n\nWhen I first read about this, I was struck by the dehumanizing conceptualization of groups of people: mothers and fathers, children, co-workers, and friends as terrain, to be negotiated and mastered--a topology of culture and individuals. If this could be visually rendered, what would that look like? What kind of objects or space would exist through a system of human terrain? I contemplated the local cultural and personal costs of this US military policy for populations the government considered to be “other.” I tried to imagine the suffering that occurs when your front yard becomes a war zone from which you and your loved ones cannot escape, threatening and irrevocably changing your way of life and the lives of your family and friends.\n\nThis disconcerting image of people as terrain inspired me to begin constructing models of human beings in agony, models of these same people in positions of submission or pain or despair. Additionally, I was struck by the notion of human beings reduced to mere environmental and geographical components. I turned to the city-building simulator game “Cities: Skylines,” and after a few aborted attempts at replacing the buildings with my agonized people, I decided it would be more effective to keep the man-made infrastructure and to replace elements of the natural world instead. In my mind, this allowed for a sense of malignant banality--an absurd domesticity.\n\nAs an American, I am acutely aware of the fact that my surreal suburban world is built upon the excess of my government through the exploitation of other peoples. I hope to show, in some small way, the psychic dissonance I experience within that knowledge.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/hts/hts1-header.jpg",
+          "alt": "human terrian systems"
+        },
+        {
+          "type": "image",
+          "src": "imgs/hts/1.jpg",
+          "alt": "human terrain systems",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/hts/3.jpg",
+          "alt": "human terrain systems",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/hts/4.jpg",
+          "alt": "human terrain systems",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/hts/5.jpg",
+          "alt": "human terrain systems",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/hts/6.jpg",
+          "alt": "human terrain systems",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/hts/7.jpg",
+          "alt": "human terrain systems",
+          "width": "half"
+        },
+        {
+          "type": "text",
+          "body": "# Animations"
+        },
+        {
+          "type": "video",
+          "src": "imgs/hts/HTS-Elders-window.mp4",
+          "alt": "",
+          "loop": false,
+          "width": "half"
+        },
+        {
+          "type": "video",
+          "src": "imgs/hts/HTS-Youth-window.mp4",
+          "alt": "",
+          "loop": false,
+          "width": "half"
+        }
+      ]
+    },
+    {
+      "title": "This is Fine",
+      "year": "2017",
+      "subtitle": "Illustrations, Installations, iOS Sticker Pack, and Reviews",
+      "slug": "this-is-fine",
+      "thumb": "imgs/thisisfine/oddgods-header.jpg",
+      "description": "Part of an exhibition in the fall of 2017 at Project Project in Omaha, NE\n\nfrom the gallery:\n\n> Myers will be presenting an array of mixed-format digital works. Constant experimentation and research fuel Myers’s work in breaking images and systems in order to return them to an alternative form of assembly\n\nfrom J. Fatima Martins' review at [Flatlanders](http://www.flatlanders.org/blog/2017/11/25/q-a-alex-myers-this-is-fine-at-project-project-omaha)\n\n> The multimedia installation This is Fine at Project Project created by Alex Myers, Assistant Professor of Interaction Design at Creighton University, is about human consciousness in flux. Specifically, the fusion of technology and biology suggests that another neuroscientific revolution in human self-awareness and existence is happening\n\n# Reviews\n\n[J. Fatima Martins' Review at Flatlanders](http://www.flatlanders.org/blog/2017/11/25/q-a-alex-myers-this-is-fine-at-project-project-omaha)\n\n[Michael J. Krainak's Review at the Omaha Reader](https://thereader.com/visual-art/fine-indeed/)\n\n# Illustrations\n\nThese computer-generated illustrations are ways for me to process all of the shit I see around me.\n\nI read a lot - comics, sci-fi, mysteries. My favorites are always the stories that subtly mix the supernatural with the mundane. So those sorts of narrative structures inform my work conceptually. Visually my influences come from a wide array of sources. I love movies. Cronenberg, Carpenter, Lynch. I also love early Netherlandish art. The weird late-Gothic stuff, with its amazing, semi-polygonal cloth, its tight compositional structures and flat, two-dimensional bodies. They also contain a mix of labels in gothic-lettering. Almost a Proto-User-Interface. When I'm working on a new series I often surround myself with books on alchemy, mysticism, and symbolism throughout the ages. I feel it's important to understand these old systems of meaning so that I can mix them with the new systems of meaning. After I've thrown in a bunch of these visual and conceptual inspirations, I usually build one or two small images. Sometimes I'll see something small and random during my day that sends my mind racing. That's when I really start to put the pieces together.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/thisisfine/oddgods.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "image",
+          "src": "imgs/thisisfine/noeyes.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "image",
+          "src": "imgs/thisisfine/various.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "text",
+          "body": "# Installations\n\n\"I was really interested in the idea of creating this softly moving wall. I also felt placing the panels in a sort of oblique opposition to each other helped create these little pockets of dialogue. The large size helps bring out the small details I like to embed in my works.\"\n\n\"It's not about anxiety so much as it is about discomfort. By placing the work in a place that causes the viewer to adopt an uncomfortable posture, I hope to use their body as a part of the piece.\""
+        },
+        {
+          "type": "image",
+          "src": "imgs/thisisfine/install1-web.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "image",
+          "src": "imgs/thisisfine/install2-web.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "text",
+          "body": "Included in this installation were selections from my ongoing [*Human Terrain Systems*](https://www.alexmyers.info/pages/hts/index.html) Project.\n\n# iOS Sticker Pack\n\n[An iOS sticker pack](https://itunes.apple.com/us/app/this-is-fine/id1299288448?mt=8) that was released in conjuction with the exhibition in the fall of 2017 at Project Project in Omaha, NE\n\nAdd some surreal weirdness to your conversations\n\nI'm working on a chatbot that should be better able to explain the work. Stay tuned."
+        },
+        {
+          "type": "image",
+          "src": "imgs/thisisfine/sticker1.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "image",
+          "src": "imgs/thisisfine/sticker2.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "image",
+          "src": "imgs/thisisfine/sticker3.jpg",
+          "alt": "grammar"
+        }
+      ]
+    },
+    {
+      "title": "Everything To Be Afraid Of",
+      "year": "2016",
+      "subtitle": "Everything To Be Afraid Of / illustration+installation / Tugboat Gallery / August 5 - 26, 2016",
+      "slug": "everything-to-be-afraid-of",
+      "thumb": "imgs/everything/she_he_header.jpg",
+      "description": "from the release:\n\n> We live in a horrible time of anxiety and fear. At least it seems like a time of anxiety and fear. I suppose it always does to the people that live through it.\n> I think a lot about the horrible things that happen around me. I constantly worry about those horrible things happening to my family and friends. That fear is closer, most easily felt. I feel it most for my kids. A feeling I’m sure many parents share. That deep, gut twisting fear pushes me to find distractions, lest it consume me. In someways I fear that consumption more than anything. I feel like I’m hanging by my finger-tips, from what seems like a great height. As I hang, there’s a small song of doubt that tells me that the height may not be so great after all. The ground could be just beyond my feet. The fall, short and safe. But I can’t let go because I can’t be certain. So I hang here, distracting myself.\n> These things that I’ve made are the artifacts of that distraction. They are the manifestations of every anxious bead of sweat.\n\n- This exhibition featured the following works:\n- - Three tapestries with new illustrations made specifically for the show\n- - An E01 playing my [Ornament & Crime](https://www.alexmyers.info/pages/ornament.html) series\n- - [The Body That Produced Them](https://vimeo.com/232091958) - A new, experimental video series\n- - [Times Within Time](https://vimeo.com/188046989), a collection of six slow works",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/everything/she_he_header.jpg",
+          "alt": "Everything To Be Afraid Of"
+        },
+        {
+          "type": "vimeo",
+          "id": "188046989",
+          "hash": "d137fafd2c",
+          "alt": "laying"
+        },
+        {
+          "type": "vimeo",
+          "id": "232091958",
+          "hash": "ad9823e677",
+          "alt": "laying"
+        },
+        {
+          "type": "image",
+          "src": "imgs/everything/death_web.jpg",
+          "alt": "Everything To Be Afraid Of",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/everything/he-she_web.jpg",
+          "alt": "Everything To Be Afraid Of",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/everything/she-he_web.jpg",
+          "alt": "Everything To Be Afraid Of",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/everything/1.jpg",
+          "alt": "",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/everything/2.jpg",
+          "alt": "",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/everything/3.jpg",
+          "alt": "",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/everything/4.jpg",
+          "alt": "",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/everything/5.jpg",
+          "alt": "",
+          "width": "third"
+        }
+      ]
+    },
+    {
+      "title": "Phantasmagoria",
+      "year": "2016",
+      "subtitle": "Icky Blossoms / VR Music Video / Art Direction + 3D modeling / 2015 - 2016",
+      "slug": "phantasmagoria",
+      "thumb": "imgs/phantas/phantas-thumb.png",
+      "description": "",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/phantas/asset6.png",
+          "alt": "Phantasmagoria - Icky Blossoms"
+        },
+        {
+          "type": "image",
+          "src": "imgs/phantas/asset1.png",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/phantas/asset2.png",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/phantas/asset3.png",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/phantas/asset4.png",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "youtube",
+          "id": "tbmJFj-W8tc",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "Ornament & Crime",
+      "year": "2015",
+      "subtitle": "a Commission for The Electric Objects Art Club / animation + 3D modeling / Electric Objects 1 / January, 2016",
+      "slug": "ornament-crime",
+      "thumb": "imgs/ornament/ornament-thumb.jpg",
+      "description": "from the release:\n\n> \"Ornament & Crime is a reaction to an early-20th century essay by Adolf Loos, an influential text that would later became the genesis of the Bauhaus movement. The essay, written during the height of the Art Nouveau movement, attacked ornamentation as a waste of time and energy, since embellishments would only cause an object to go out of style.\n\n> With this idea in mind, Myers concocted outlandish and confounding scenes by roughly blending 3D scanned self-portraits with skulls and water simulations. Simultaneously raw and refined, the glitching video series acts as both an interpretation and response to the clean, modern sensibility preached by the Austrian architect.\"",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/ornament/ornament-thumb.jpg",
+          "alt": "Ornament"
+        },
+        {
+          "type": "video",
+          "src": "imgs/ornament/OurDaughtersDaughters.mp4",
+          "alt": "",
+          "loop": false,
+          "poster": "imgs/ornament/ornament-poster.jpg",
+          "width": "third"
+        },
+        {
+          "type": "video",
+          "src": "imgs/ornament/BetterThanAFinger.mp4",
+          "alt": "",
+          "loop": false,
+          "poster": "imgs/ornament/better-poster.jpg",
+          "width": "third"
+        },
+        {
+          "type": "video",
+          "src": "imgs/ornament/YouDidntJump.mp4",
+          "alt": "",
+          "loop": false,
+          "poster": "imgs/ornament/you-poster.jpg",
+          "width": "third"
+        }
+      ]
+    },
+    {
+      "title": "Plane Positions Array",
+      "year": "2011-present",
+      "subtitle": "Databent 3D renderings / data visualization + 3D modeling / 2011 - present",
+      "slug": "plane-position-array",
+      "thumb": "imgs/plane/plane3-thumb.jpg",
+      "description": "",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/plane/plane4.jpg",
+          "alt": "Plane Positions Array"
+        },
+        {
+          "type": "image",
+          "src": "imgs/plane/plane2.jpg",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/plane/plane3.jpg",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/plane/plane5.jpg",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/plane/plane6.jpg",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/plane/plane1.jpg",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/plane/plane7.jpg",
+          "alt": "plane",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/plane/plane8.jpg",
+          "alt": "plane",
+          "width": "half"
+        }
+      ]
+    },
+    {
+      "title": "The Grammar of Ornament",
+      "year": "2014",
+      "subtitle": "Illustrations of a Landscape",
+      "slug": "the-grammar-of-ornament",
+      "thumb": "imgs/grammar/grammar-thumb.jpg",
+      "description": "Influenced in part by old Flemish paintings, they are digital allegories of whatever context.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/grammar/grammar1.jpg",
+          "alt": "grammar"
+        },
+        {
+          "type": "image",
+          "src": "imgs/grammar/grammar2.jpg",
+          "alt": "grammar",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/grammar/grammar3.jpg",
+          "alt": "grammar",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/grammar/grammar4.jpg",
+          "alt": "grammar",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/grammar/grammar5.jpg",
+          "alt": "grammar",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/grammar/grammar6.jpg",
+          "alt": "grammar",
+          "width": "half"
+        }
+      ]
+    },
+    {
+      "title": "Nothing of This is Ours",
+      "year": "2014",
+      "subtitle": "Nothing of This is Ours is a multiplayer playground made originally for NP3's experimental art space M0Bi.",
+      "slug": "nothing-of-this-is-ours",
+      "thumb": "imgs/notio/notio2-thumb.jpg",
+      "description": "From NP3's press release:\n\n\"With his strong signature, and his recognizable visual and digital language, Alex creates infinite, surrealistic worlds with colorful creatures, alchemistic symbols, buddhas and other worldly cultural heritages. In the multiplayer game installation 'Nothing of This is Ours', visitors can immerse themselves in the mystic landscapes, graphic patterns and polygon characters. A journey without a destination, exploring with pure instinct. Alex offers the visitors a closer look at the artistic, innovative possibilities of the art game. The game as a contemporary medium, where the newest technique and art come together and enrich the one who takes the time to play the game. Alex invites the visitor to play in M0Bi, individually or collectively, experienced and inexperienced!\" (©NP3 2014)\n\n[Download from Itch.io](http://aandnota.itch.io/nothing-of-this-is-ours)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/notio/notio1.png",
+          "alt": "Nothing of This is Ours - Image 1"
+        },
+        {
+          "type": "vimeo",
+          "id": "111035196",
+          "hash": "",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "GodardIt",
+      "year": "2013",
+      "subtitle": "An extension that injects a little French New Wave into your page.",
+      "slug": "godardit",
+      "thumb": "imgs/godardit/godard1-thumb.jpg",
+      "description": "inspired by:\n\n> \"when Jean-Luc Godard becomes a plug-in, we must look beyond the Nouvelle Vague\" - Alexander Galloway, The Interface Effect, 2012\n\n[Get it at the Chrome Store](https://chrome.google.com/webstore/detail/godard-it/dighaiglpabhbdchbmjpnafmmdhfcoda)\n\nConcept/Code - Alex Myers\nMagic Code - [Switchbreak](https://twitter.com/Switchbreak)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/godardit/godard1.png",
+          "alt": "GodardIt"
+        },
+        {
+          "type": "youtube",
+          "id": "ouOsqLJRfMg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "RAWerTUNES10.EXE (3Dude Remix)",
+      "year": "2013",
+      "subtitle": "RAWerTUNES10.EXE is a noise-art album made in homage to the now late, (great?) iTunes 10 release.",
+      "slug": "rawertunes10exe-3dude-remix",
+      "thumb": "imgs/raw/raw1-thumb.jpg",
+      "description": "As iTunes 11 makes its way onto computers across the globe this album will remain as a media-archive of splendid noises transcoded from iTunes 10 executables. Exapted from the same raw code each track is now accompanied by its own 'Dude' [ready to be 3D printed](http://files.alexmyers.info/misc/STLs.zip), at your own (great) expense.\n\nmade in collaboration with [Daniel Rourke](http://machinemachine.net/) for [Run, Computer Run](http://runcomputerrun.com/) at Rua Red, Dublin, Ireland.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/raw/raw2.jpg",
+          "alt": "RAWerTUNES10.EXE (3Dude Remix)"
+        },
+        {
+          "type": "image",
+          "src": "imgs/raw/raw3.jpg",
+          "alt": "RAWerTUNES10.EXE (3Dude Remix)"
+        },
+        {
+          "type": "image",
+          "src": "imgs/raw/raw4.jpg",
+          "alt": "RAWerTUNES10.EXE (3Dude Remix)"
+        },
+        {
+          "type": "image",
+          "src": "imgs/raw/raw5.jpg",
+          "alt": "RAWerTUNES10.EXE (3Dude Remix)"
+        },
+        {
+          "type": "image",
+          "src": "imgs/raw/raw6.jpg",
+          "alt": "RAWerTUNES10.EXE (3Dude Remix)"
+        }
+      ]
+    },
+    {
+      "title": "Eat All The Things",
+      "year": "2013",
+      "subtitle": "",
+      "slug": "eat-all-the-things",
+      "thumb": "imgs/eat/eat1.png",
+      "description": "In 2025, EAtT and HICCUP were remastered and bundled together for [NP3's](http://np3.nu) relaunch of their (eMMA) public art platform. You can grab copies of them on [my Itch.io](https://aandnota.itch.io/hiccup-eatt) page.\n\nIt does what it says on the box. This piece came about after a year of thinking on [OOO](http://en.wikipedia.org/wiki/Object-oriented_ontology) and my difficulties accepting it. It's not fashionable now, but I can't get past human phenomenology and epistemology, or \"[correlationism](http://en.wikipedia.org/wiki/Quentin_Meillassoux)\" as the kids are calling it these days. We only know what we know because of how we know.\n\nMixed up in all of this are the ideas of digital anthropopagy and productive misinterpretations. The ingesting and remixing culture to make more culture.\n\nAlso I've spent the last year watching my daughter develop from a completely helpless newborn to an increasingly independent toddler. This includes feeding herself. It's been fascinating. So there's a little of that thrown in, too.\n\nkeys\nelbow - space\nwrist - a\nthumb - t\nindex - little fingers - h, j, k, l\n\nSome fun things people have been saying about it:\n\n> \"Is there a feedback thing for when you successfully eat something? I don't know if I'm failing entirely or not.\n> MEANING\"\n> - [Erik Hanson](https://twitter.com/erik_a_hanson)\n\n> \"this is pretty amusing -- there's something kind of overwhelming (in a good way) about hundreds of impeccably modeled recognizable things all piled onto each other. and i like how your hand ends up feeling totally QWOPlike and ineffectual against the deluge -- like when your arm falls asleep, kind of.\" - [Rob Dubbin](https://twitter.com/robdubbin)\n\nEAtT was commissioned by [NP3](http://np3.nu) to be part of the first offering at their experimental mulitmedia art [(eMMa)](http://www.np3.nu/?page_id=144) public art platform in the Rem Koolhaus Videobusstop in Groningen, NL, in May of 2014\n\nEAtT was shown as part of the [inaugural Activatar exhibition in December of 2017](https://www.instagram.com/p/BcKkC5bBmnb/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/eat/eat1.png",
+          "alt": "Me"
+        },
+        {
+          "type": "vimeo",
+          "id": "65232628",
+          "hash": "",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "You Have Been Blinded",
+      "year": "2013",
+      "subtitle": "",
+      "slug": "you-have-been-blinded",
+      "thumb": "imgs/yhbb/yhbb1-thumb.jpg",
+      "description": "A non-visual adventure game that uses a vibrating motor as its only source of feedback. The player navigates a \"dungeon\" of various tiles, blindly feeling the space only by vibration. On reaching special spaces, the player is transported back to their starting location\n\nMade in collaboration with [Jeff Thompson](http://jeffreythompson.org/you-have-been-blinded-and-thrown-in-a-dungeon.php). Custom electronics and software. [Source files here.](https://github.com/jeffThompson/GamesPlusPlusBadge)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/yhbb/yhbb2.jpg",
+          "alt": "yhbb"
+        },
+        {
+          "type": "vimeo",
+          "id": "53818644",
+          "hash": "",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "Death of The Player",
+      "year": "2012",
+      "subtitle": "",
+      "slug": "death-of-the-player",
+      "thumb": "imgs/death/death1.png",
+      "description": "/*a modified version of Roland Barthes seminal \"The Death of the Author\" essay. modified to fit a game criticism context by find/replacing select terms*/\n/*original idea by James Schirmer (@betajames) and Cameron Kunzleman (@ckunzelman)*/\n/*EDIT:changed \"words\" to \"mechanics\" per the request of Roger Travis @rogertravis*/",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/death/death1.png",
+          "alt": "death"
+        },
+        {
+          "type": "image",
+          "src": "imgs/death/death_text.png",
+          "alt": "death-text"
+        }
+      ]
+    },
+    {
+      "title": "Landscapes",
+      "year": "2012",
+      "subtitle": "These are the lands of heresy and deception.",
+      "slug": "landscapes-of-heresy-and-truth",
+      "thumb": "imgs/land/land1.jpg",
+      "description": "These are a series of prints made by accident. They are broken and distorted portraits of global icons. Icons imbued with an inordinate amount of faith and trust by the people that believed in them.\n\nmade using a modified photoshop plugin",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/land/land1-1.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/land/land2.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/land/land3.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/land/land4.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/land/land5.jpg",
+          "alt": "land"
+        }
+      ]
+    },
+    {
+      "title": "(0,0,0)",
+      "year": "2012",
+      "subtitle": "What happens when all of the elements of a place exist in the same physical location?",
+      "slug": "000",
+      "thumb": "imgs/000/000-1.png",
+      "description": "By changing the 3D information of a place from a proprietary format to an open one elements of each place were given their own origin point. Not something you usually want to happen.\n\nI exploited this glitch by moving the origin points to the (0,0,0) - the universal origin of 3D space.\n\nThis is what happens when all of the parts of a place exist at the same point in space.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/000/000-2.jpg",
+          "alt": "000"
+        },
+        {
+          "type": "image",
+          "src": "imgs/000/eiffel.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/000/empire.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/000/ggb.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/000/guggenheim.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/000/londonbridge.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/000/machupicchu.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/000/mecca.jpg",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/000/parthenon.jpg",
+          "alt": "land"
+        }
+      ]
+    },
+    {
+      "title": "Writing Things We Can No Longer Read",
+      "year": "2012",
+      "subtitle": "",
+      "slug": "writing-things-we-can-no-longer-read",
+      "thumb": "imgs/wtwcnr/wtwcnr1.jpg",
+      "description": "Writing Things We Can No Longer Read is a surrealist artgame about the beauty of apophenia. It is the fourth iteration in a series of ephemeral artgames that address the human need to find meaning.\n\nWe transcribe significance constantly in our daily lives. This writing increases until it reaches a critical mass of meaninglessness and then eventually it finds its way into the realm of meaning again.\n\nI hope.\n\nDeveloped, in part, [for a 12 hour game jam](http://gamesplusplus.org), updated for a gallery exhibition, then later a conference and continually evolving.\n\n[PLAY HERE](http://files.alexmyers.info/notgames/WTWCNL)\n\n[PLAY on KONGREGATE](http://www.kongregate.com/games/aandnota/writing-things-we-can-no-longer-read)\n\n[PLAY on GAME JOLT](http://gamejolt.com/games/other/writing-things-we-can-no-longer-read)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/wtwcnr/wtwcnr1.png",
+          "alt": "wtwcnr"
+        },
+        {
+          "type": "vimeo",
+          "id": "73953830",
+          "hash": "",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "imgs/wtwcnr/wtwcnr2.png",
+          "alt": "wtwcnr"
+        },
+        {
+          "type": "image",
+          "src": "imgs/wtwcnr/wtwcnr3.png",
+          "alt": "wtwcnr"
+        },
+        {
+          "type": "image",
+          "src": "imgs/wtwcnr/wtwcnr4.png",
+          "alt": "wtwcnr"
+        },
+        {
+          "type": "image",
+          "src": "imgs/wtwcnr/wtwcnr5.png",
+          "alt": "wtwcnr"
+        }
+      ]
+    },
+    {
+      "title": "Me&You",
+      "year": "2011",
+      "subtitle": "An art game experiment",
+      "slug": "meyou",
+      "thumb": "imgs/meandyou/meandyou1.png",
+      "description": "Made in five days from start to finish. It's about co-dependence, cooperation, and co-habitation.\n\n[PLAY IT HERE](http://files.alexmyers.info/notgames/MeandYou/index.html) or on [KONGREGATE](http://www.kongregate.com/games/aandnota/me-you)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/meandyou/meandyou1.png",
+          "alt": "meandyou"
+        },
+        {
+          "type": "image",
+          "src": "imgs/meandyou/meandyou2.png",
+          "alt": "land"
+        },
+        {
+          "type": "image",
+          "src": "imgs/meandyou/meandyou3.png",
+          "alt": "land"
+        }
+      ]
+    },
+    {
+      "title": "Down & Up",
+      "year": "2011",
+      "subtitle": "",
+      "slug": "downup",
+      "thumb": "imgs/dandu/5_o.png",
+      "description": "A notartgame that follows no conventions but its own, \"Down&Up\" is a frustrating, colorful and sometimes disturbing experience.\n\nIt will fight you for control.\nIt won't coddle your expectations.\nIt is not user friendly.\n\n[PLAY TPHD EDITION](http://files.alexmyers.info/notgames/DownandUp)\n[PLAY PEERLESS EDITION](http://files.alexmyers.info/notgames/Peerless) (use a wiimote for best results)\nor play it on [KONGREGATE](http://www.kongregate.com/games/aandnota/down-up)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/dandu/5_o.png",
+          "alt": "Down and Up"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dandu/1_o.png",
+          "alt": "grammar",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dandu/2_o.png",
+          "alt": "grammar",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dandu/3_o.png",
+          "alt": "grammar",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dandu/4_o.png",
+          "alt": "grammar",
+          "width": "half"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dandu/6_o.jpg",
+          "alt": "Down and Up"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dandu/7_o.jpg",
+          "alt": "Down and Up"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dandu/8_o.jpg",
+          "alt": "Down and Up"
+        }
+      ]
+    },
+    {
+      "title": "Find & Replace",
+      "year": "2011",
+      "subtitle": "Find & Replace / performance / Drift Station / Gallery April 1, 2011",
+      "slug": "findreplace",
+      "thumb": "imgs/find/find1.png",
+      "description": "Alex Myers // Video\n[Jeff Thompson](http://jeffreythompson.org) // Audio\n\nfrom the release:\n\n> \"During the opening, Alex Myers and Jeff Thompson will present a live video and audio performance that builds from the fundamental units of computer files. Myers' live video performance looks like a mix of geometric minimalist painting and a Skype video chat on a dialup modem; created by manipulating the file structure of an existing video file. Similarly, Thompson's audio performance sonifies raw data such as Photoshop and AutoCAD files. Manipulating the playback parameters using custom software, the files become streams of droning tones and skittering, grinding noise.\"\n\nThanks, Joe, for all the help with the code!",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/find/find1.png",
+          "alt": "Find & Replace"
+        },
+        {
+          "type": "vimeo",
+          "id": "22028985",
+          "hash": "",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "imgs/find/find2.png",
+          "alt": "Find & Replace"
+        },
+        {
+          "type": "image",
+          "src": "imgs/find/find3.png",
+          "alt": "Find & Replace"
+        },
+        {
+          "type": "image",
+          "src": "imgs/find/find4.png",
+          "alt": "Find & Replace"
+        }
+      ]
+    },
+    {
+      "title": "If You Play It Too Often, It Loses Its Meaning",
+      "year": "2011",
+      "subtitle": "An exploration of interconnected surreal digital compositions.",
+      "slug": "if-you-play-it-too-often-it-loses-its-meaning",
+      "thumb": "imgs/yptolm/yptolm1-thumb.jpg",
+      "description": "Each moveMeant is an investigation of a theme through time and space.\n\nmoveMeants are built around whatever thoughts/feelings I'm having at the time. The composition as a whole is arranged and rearranged continuously. The order/connections between moveMeants for one exhibition maybe entirely different for another.\n\nYPTOLM is never complete.\nYPTOLM is always in flux.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/yptolm/yptolm1.jpg",
+          "alt": "yhbb"
+        },
+        {
+          "type": "vimeo",
+          "id": "61808593",
+          "hash": "",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "Of Youth, and Dreams in the Evening of Life",
+      "year": "2010",
+      "subtitle": "an installation at The bemisUnderground, Omaha, NE. March - April 2010",
+      "slug": "of-youth-and-dreams-in-the-evening-of-life",
+      "thumb": "imgs/youth/youth3-thumb.jpg",
+      "description": "*from the release*\nAlex chooses his materials carefully. He utilizes simple K'nex motors to create a constantly shifting juxtaposition, highlighting the unstable, yet cyclical nature inherent in all of our stories. The bright, plastic colors disarm the senses and create an expectation of frivolity, yet the compositions tell a darker tale. Attracted to the free-play memories of a childhood surrounded by bins of these toys, he discovered direct links to the sentimentality of today's open source, rapid-prototyping movements.",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/youth/youth2.jpg",
+          "alt": "youth"
+        },
+        {
+          "type": "vimeo",
+          "id": "11327159",
+          "hash": "",
+          "alt": ""
+        },
+        {
+          "type": "vimeo",
+          "id": "11327054",
+          "hash": "",
+          "alt": ""
+        },
+        {
+          "type": "vimeo",
+          "id": "11326973",
+          "hash": "",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "src": "imgs/youth/youth3.jpg",
+          "alt": "yhbb"
+        },
+        {
+          "type": "image",
+          "src": "imgs/youth/youth4.png",
+          "alt": "yhbb"
+        },
+        {
+          "type": "image",
+          "src": "imgs/youth/youth5.png",
+          "alt": "yhbb"
+        },
+        {
+          "type": "image",
+          "src": "imgs/youth/youth6.jpg",
+          "alt": "yhbb"
+        },
+        {
+          "type": "image",
+          "src": "imgs/youth/youth7.jpg",
+          "alt": "yhbb"
+        },
+        {
+          "type": "image",
+          "src": "imgs/youth/youth8.jpg",
+          "alt": "yhbb"
+        }
+      ]
+    },
+    {
+      "title": "Does Not Play Well With Others",
+      "year": "2009",
+      "subtitle": "",
+      "slug": "does-not-play-well-with-others",
+      "thumb": "imgs/dnpwwo/dnpwwo-thumb.jpg",
+      "description": "Oude Natuurmuseum, Groningen, NL. June - July 2009\n\nRoxaboxen, Chicago, IL. October, 2011\n\nPropeller, Toronto, Ontario, Canada. February, 2013\n\nI used a simple video game hardware hack to subtly change the dynamics of DOOM2's death-match mode in an effort to subvert the traditional game-play.\n\n3 players experience the game space as an abstracted kaleidoscope while the 4th sees what was originally intended.\n\nThe hack serves to change the relationships between the players. Restructuring the original ritual-combat. Both as the typical aggressive power-play and as a new hypnotic experience of the beauty within the machine.\n\nFor me, it's about play and the unfettered joy and agony of experience. It is about how we ritualize these experiences in an effort to share with each other.\n\nWhether we share pain or pleasure is up to us",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/dnpwwo/dnpwwo-thumb.jpg",
+          "alt": "dnpwwo"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dnpwwo/dnpwwo3.jpg",
+          "alt": "dnpwwo"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dnpwwo/dnpwwo4.jpg",
+          "alt": "dnpwwo"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dnpwwo/dnpwwo5.jpg",
+          "alt": "dnpwwo"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dnpwwo/dnpwwo6.jpg",
+          "alt": "dnpwwo"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dnpwwo/dnpwwo7.jpg",
+          "alt": "dnpwwo"
+        },
+        {
+          "type": "image",
+          "src": "imgs/dnpwwo/dnpwwo2.jpg",
+          "alt": "dnpwwo"
+        }
+      ]
+    },
+    {
+      "title": "WINNING",
+      "year": "2008",
+      "subtitle": "",
+      "slug": "winning",
+      "thumb": "imgs/winning/winning-thumb.jpg",
+      "description": "NP3, Groningen, NL. October - November 2008\n\nInteraccess, Toronto, Ontario, Canada. February, 2014\n\nI realized there are no goals. Nothing of substance. Only the cycle of Birth&Death.\n\nI have seen within us the capacity for an unthinking Violence. This scares me.\n\nViolence is the dowry of humanity. Our payment on the marriage bed of existence.\n\nThe Game is a window through which we see the Fear within\n\nIt’s not about fighting ourselves.\n\n## Press\n\n[Gamescenes, 8Feb14](http://www.gamescenes.org/2014/02/game-art-alex-myers-winning-2014.html)\n\n[Prosthetic Knowledge, 6Feb14](http://prostheticknowledge.tumblr.com/post/75756266810/winning-game-art-project-by-alex-myers-reduces)",
+      "media": [
+        {
+          "type": "image",
+          "src": "imgs/winning/winning-vector.jpg",
+          "alt": "winning"
+        },
+        {
+          "type": "image",
+          "src": "imgs/winning/winning1.gif",
+          "alt": "winning",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/winning/winning2.gif",
+          "alt": "winning",
+          "width": "third"
+        },
+        {
+          "type": "image",
+          "src": "imgs/winning/winning3.gif",
+          "alt": "winning",
+          "width": "third"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "title": "Teaching",
+      "slug": "teaching",
+      "body": "> “They don't remember what you try to teach them. They remember what you are.” - *Jim Henson*\n\nI am an Associate Professor of Interaction Design in the [Computer Science, Design & Journalism](https://www.creighton.edu/arts-sciences/computersciencedesignjournalism/) at [Creighton University.](http://www.creighton.edu/)\n\n# [Current schedule and office hours](pages/officehours.html)\n\nI teach game, graphic, web, and interaction design classes in addition to the occasional special topics course:\n\n## Concept Sketch Design\n\nThe course introduces the design of online publications, including elements of online layout, typography and graphics to create well-designed, responsive web sites.\n\n## Digital Foundations\n\nThis course teaches the basics of designing graphics and imagery and then how to publish it online by creating websites. In addition, students learn to use a content management system such as Wordpress.\n\n## Graphic Design I\n\nThis course uses a variety of computer graphic tools to develop skills and creativity in illustrating editorial and visual ideas. Students will work with and combine visual elements from photographs and artwork.\n\n## Web Design\n\nThis course introduces the design of online publications, including elements of online layout, typography and graphics to create well-designed, responsive web sites.\n\n## Interaction Design\n\nThis course examines interactive media aesthetics and concerns. The course explores techniques in designing multimedia for the Web and mass media distribution.\n\n## 3D Digital Design\n\nAn advanced 3D computer graphics course that creates virtual 3D designs for prototyping on 3D printers or other delivery methods. Students will learn the basics of designing in three dimensional space.\n\n## Data Visualization\n\nThe first goal will be accomplished by engaging students in a series of short lectures that discuss how to stimulate the viewer to think about substance and content or how images might enhance and critique new knowledge acquisition in science and design. The second goal is addressed by inviting students to join in a research team, which meets weekly to collectively work on a large data set to experiment with translation of numeric information into various forms.\n\n## Motion Graphics\n\nThis course teaches students to create dynamic graphics with an emphasis on storytelling. They will create typography and motion/moving graphics, including storyboards, web preparation, and preparation for video. Each student will pitch ideas and discuss with class, and participate in critiques in order to improve content and motion graphic projects.\n\n## Immersive Design\n\nThis course explores the practice and design of augmented and virtual reality experiences. The goal of this course is to find ways that we can work together to use emerging digital augmentation tools to inspire a positive change in the world. Practical methodologies and critical theories are investigated and discussed.\n\nFrom 2011 - 2014 I was an Assistant Professor and the Program Director of the [Game Studies BSc](http://www.bellevue.edu/degrees/undergraduate/game-studies-bs/) at [Bellevue University](http://www.bellevue.edu/) in [Bellevue, NE](http://goo.gl/maps/UUqC).\n\nBetween July 2011 and December 2012 I wrote the entire degree which includes the following classes:\n\n## GAME 102 Introduction to Game Development\n\nThis course further explores the development and practice of Game Design and how it applies to interactive art. Topics include introduction to interactive narrative design, the basics of video game programming and computer-mediated interactive systems, collision management, version control, interface design and exporting. Prerequisite: GAME 101\n\n## GAME 103 Introduction to Digital 2D Design\n\nDigital 2D Design provides beginning through intermediate concepts and practice in digital 2D design. Topics covered include fundamentals of digital color theory, digital imaging, selection tools, layering, digital painting tools, and photo retouching. Students will incorporate basic design principles in their texture designs and compositions. No prerequisites.\n\n## GAME 104 Introduction to Digital 3D Design\n\nThis course provides an introduction to the fundamental concepts of 3-dimensional design for digital contexts. Topics covered include fundamentals of volume, space, proportion, weight, mass, digital modeling tools, extrusion, meshes, polygon modeling and curves. Prerequisite: GAME 103\n\n## GAME 205 Beginning Portfolio Development\n\nThis course covers designing an industry quality portfolio and cultivating and maintaining an industry network. Topics covered include principles of constructive criticism, basic HTML, CSS, and the fundamentals of web design. The portfolio started in this course will be built upon in subsequent courses and will be used in internship applications. Prerequisites: GAME 101 - 104\n\n## GAME 206 Intermediate Digital Design\n\nThis course further examines the principles of 2D and 3D visual design for games. It places an emphasis on using digital tools to produce concept art and pre- and post-production materials for portfolios and personal projects. Students will explore the processes of asset, interface and environment design. Prerequisites: GAME 101 - 104\n\n## GAME 207 Introduction to Game Programming\n\nThis course explores structured programming in game development. Course topics include languages, programming techniques, algorithms, game testing, game logic, real-time 3D rendering, asset control, and pipeline management. Students will program and complete several games. Prerequisite: GAME 205\n\n## GAME 208 Level Design\n\nThis course explores the layout and content design of analog and digital interactive spaces. Students will complete a combination of exercises, individual and collaborative projects that address the creation of interactive spaces as emotional feedback systems, reward systems, narrative systems and others. Prerequisite: GAME 205\n\n## GAME 209 Interactive Narrative Design\n\nThis course examines the role of narrative in interaction design. Course topics include electronic narrative, including principles and techniques of segmentation, navigation, juxtaposition, encyclopedic storylines, and multiple points of view, approaches to non-linear narrative design. Prerequisite: GAME 207\n\n## GAME 310 Animation\n\nThis course investigates the fundamental principles of digital animation. This course will survey the historical development of the animated film and develop basic skills in preproduction, digital modeling, simulated movement, perception and the basics of digital animation. Additional topics covered include the relationships among; anatomy, motion, weight, and timing through a combination of individual and group projects. Prerequisites: GAME 205, 206\n\n## GAME 311 Interactive Sound Design\n\nThis course provides an in-depth study of sound effect design and development within interactive contexts. Topics covered include the history of sound in games, the development of MIDI, audio production process, and approaches to non-linear sound design in games through a combination of individual and group projects. Prerequisite: GAME 205, 206\n\n## GAME 312 Intermediate Portfolio Development\n\nThis course covers refining the professional-grade portfolio started in GAME 205. Topics covered include advanced web design, HTML, CSS, occupational social-networking, industry-profiles, visibility, and presentation. Prerequisite: GAME 205, 206, 207\n\n## GAME 313 User-Experience/User-Interface Design (UX/UI)\n\nThis course provides an in-depth study of interactivity, including the psychology of user interaction and methods for designing and developing effective interfaces. Combining their previous knowledge of game design and digital imaging with the concepts in this class, students will create portfolio-quality interface designs. Prerequisite: GAME 312\n\n## GAME 314 Serious Games and Critical Play\n\nThis course in Serious Games and Critical Play examines games and play as used for political, aesthetic and social purposes. Topics covered include the history and contemporary practice of games as performative objects, subversive play, and games for change. Prerequisite: GAME 312\n\n## GAME 415 Advanced Digital Design\n\nThis course is an advanced examination of the mastery of 2D and 3D visual design for games. It places an emphasis on using digital tools to produce visual asset art and pre- and post-production materials for portfolios and personal projects. Topics covered include the demonstration of a mastery of asset, interface and environment design. Prerequisite: GAME 313, 314\n\n## GAME 416 Advanced Portfolio Design\n\nThis course covers further refining the professional-grade portfolio started in GAME 105 in preparation for GAME 417 Internship/Final Project. Topics covered include jobs-research, interview strategies and presentations. Prerequisite: GAME 313, 314\n\n## GAME 417 Internship/Thesis\n\nThis course is the culmination of the program. Students are expected to acquire and successfully complete an internship with a game development studio. If an internship cannot be found, students will work on a final project supervised by the instructor. Prerequisite: GAME 415, 416"
+    }
+  ],
+  "links": [
+    {
+      "label": "teaching",
+      "url": "page.html?p=teaching"
+    },
+    {
+      "label": "instagram",
+      "url": "https://instagram.com/aandnota_art"
+    },
+    {
+      "label": "contact",
+      "url": "myers.alex@gmail.com"
+    }
+  ]
+}

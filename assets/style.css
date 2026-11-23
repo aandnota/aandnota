@@ -1,0 +1,167 @@
+/* ------------------------------------------------------------------
+   Styles modelled on the original alexmyers.info.
+   The main values are variables at the top so they're easy to adjust.
+   ------------------------------------------------------------------ */
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url("fonts/open-sans-latin-wght-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url("fonts/open-sans-latin-ext-wght-normal.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url("fonts/open-sans-latin-wght-italic.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url("fonts/open-sans-latin-ext-wght-italic.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+:root {
+  --bg: #fff;
+  --ink: #000;
+  --link: #FF6666;                                 /* coral links */
+  --subhead: #0080FF;                              /* small headings on text pages (course titles) */
+  --logo-filter: grayscale(100%) brightness(120%); /* applied to the name GIF; set to none for original colours */
+  --thumb-ratio: 16 / 10;                          /* shape of project thumbnails on the home page */
+  --font: "Open Sans", sans-serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+}
+img { display: block; max-width: 100%; }
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+h1, h2, h3 { font-weight: 400; }
+.notice { padding: 2rem; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.no-thumb { display: block; aspect-ratio: var(--thumb-ratio); background: #eee; }
+
+/* Home: name + intro --------------------------------------------- */
+.index {
+  display: flex;
+  max-width: 95vw;
+  margin: 2rem auto;
+  padding: .5em 0 1.5em;
+}
+.index .name { width: 48%; margin: 0 1rem; }
+.index .name a { display: block; text-decoration: none; color: var(--ink); }
+.index .name img { max-width: 100%; filter: var(--logo-filter); }
+.index .name-text { margin: 0; font-size: 4em; font-style: italic; font-weight: 400; line-height: 1.15; }
+.index .details { width: 48%; }
+.index .tagline { margin: 0 0 .5em; font-size: 1.5em; }
+.index .intro p { margin: 0 0 1em; font-weight: 300; font-size: .9em; line-height: 1.4; }
+.index .links { list-style: none; margin: 0; padding: 0; }
+
+/* Home: project grid (three across, edge to edge) ------------------ */
+.works {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.works > li { width: 33.333%; }
+.works a { display: block; }
+.works img {
+  width: 100%;
+  aspect-ratio: var(--thumb-ratio);
+  object-fit: cover;
+}
+.works .label {
+  width: 33.333%;
+  margin: 5vw 0 1.25vw;
+}
+.works .label h2 { margin: 0 0 0 2vw; font-size: 1.5em; font-weight: 300; font-style: italic; }
+
+/* Project page ------------------------------------------------------ */
+.main-image { width: 100%; height: 70vh; overflow: hidden; }
+.main-image img { width: 100%; height: 100%; object-fit: cover; }
+
+.descr {
+  max-width: 75vw;
+  margin: 3vw auto 2rem;
+  padding: .5em;
+}
+.back-link { margin: 0; font-size: 2em; font-weight: 300; }
+.descr h1 { margin: 1.5rem 0; font-size: 8vw; font-style: italic; line-height: 1.1; }
+.descr .subtitle { margin: 0; font-size: 2rem; }
+.descr .rich { font-weight: 300; font-size: .9em; line-height: 1.4; }
+.descr .rich p { margin: 1em 0; }
+
+.media { display: flex; flex-wrap: wrap; align-items: flex-start; margin-top: 2vw; }
+.media > * { flex: 0 0 auto; }
+.media > .w-full { width: 100%; margin-bottom: 2vw; }
+.media > .w-half { width: 50%; }                 /* side by side, edge to edge, like the original grids */
+.media > .w-third { width: 33.333%; }
+.media img, .media video { display: block; width: 100%; height: auto; }
+.media .text-block { margin: 1vw 0 2vw; }
+
+/* Headings inside project text */
+.descr .rich h2 { color: inherit; font-size: 2rem; margin: 1.5rem 0 .5rem; }
+.descr .rich h3 { color: inherit; margin: 1rem 0 .5rem; font-size: 1.17em; font-style: normal; font-weight: 600; }
+.descr .rich h3 + p { margin-left: 0; font-style: normal; font-weight: 300; }
+.video { position: relative; aspect-ratio: 16 / 9; background: #000; }
+.video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
+/* Text pages (Teaching, etc.) ---------------------------------------- */
+.content.page {
+  max-width: 50em;
+  margin: 0 auto;
+  padding: .5em .5rem 1.5em;
+}
+.page h1 { margin: 0; font-size: 4em; font-style: italic; line-height: 1.15; }
+
+/* Formatted text: # heading, ## small heading, > quote, - list */
+.rich { font-weight: 300; line-height: 1.4; }
+.page .rich p { font-size: .9em; }
+.rich strong { font-weight: 600; }
+.rich h2 { margin: 1.25em 0 .6em; font-size: 1.5rem; color: var(--link); }
+.rich h2 a { color: inherit; }
+.rich h3 { margin: 2em 0 0 40px; font-size: .9em; font-style: italic; color: var(--subhead); }
+.rich h3 + p { margin: .6em 0 0 40px; font-style: italic; font-weight: 400; }
+.rich blockquote { margin: .5rem 0 1.25em; font-size: 1.5em; font-weight: 400; line-height: 1.3; }
+.rich blockquote p { margin: 0; font-size: 1em; }
+.rich ul { padding-left: 1.2rem; }
+
+/* Phones & small tablets ------------------------------------------- */
+@media (max-width: 900px) {
+  .main-image { height: 60vh; }
+}
+@media (max-width: 600px) {
+  .index { display: block; margin: 0 auto; padding-top: 1.25rem; }
+  .index .name, .index .details { width: 95%; margin: 0 auto; }
+  .index .name-text { font-size: 3em; }
+  .works { margin-top: 5vw; }
+  .works > li, .works .label { width: 100%; }
+  .main-image { height: 50vh; }
+  .descr { max-width: none; }
+  .descr h1 { font-size: 10vw; }
+  .page h1 { font-size: 3em; }
+}
