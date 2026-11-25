@@ -122,10 +122,15 @@ h1, h2, h3 { font-weight: 400; }
 .media > .w-third { width: 33.333%; }
 .media img, .media video { display: block; width: 100%; height: auto; }
 .media .text-block { margin: 1vw 0 2vw; }
+.media figure.captioned { margin: 0; }
+.media figcaption { margin-top: 2rem; padding: .6em .75em 1.25em; font-weight: 300; font-size: .85em; line-height: 1.4; }
+.media figcaption .rich { font-size: 1em; }
+.media figcaption .rich p { margin: 0 0 .9em; }
+.media figcaption strong { font-weight: 600; font-size: 1.25em; font-style: italic;}
 
 /* Headings inside project text */
 .descr .rich h2 { color: inherit; font-size: 2rem; margin: 1.5rem 0 .5rem; }
-.descr .rich h3 { color: inherit; margin: 1rem 0 .5rem; font-size: 1.17em; font-style: normal; font-weight: 600; }
+.descr .rich h3 { color: inherit; margin: 2rem 0 .5rem; font-size: 1.17em; font-style: normal; font-weight: 600; }
 .descr .rich h3 + p { margin-left: 0; font-style: normal; font-weight: 300; }
 .video { position: relative; aspect-ratio: 16 / 9; background: #000; }
 .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }

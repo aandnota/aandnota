@@ -188,7 +188,7 @@
       "subtitle": "a Residency/Commission for The Spectacular House's GATE Gallery / animation + 3D modeling / December 2019 - January 2020",
       "slug": "gate-everyone-is-trapped-in-someone-elses-paradise",
       "thumb": "imgs/trapped/trapped-thumb.jpg",
-      "description": "# Shown as part of the PIKSEL Festival for Free/Open Source Art & Technology / November 2021\n\nEveryone is Trapped in Someone Else’s Paradise is a video installation of three looped-animations. The animations are made using the open source software Blender with some photoscanned assets from the free Quixel Megascans library.\n\nThe animations depict three portraits of a being seemingly stuck in an endless situation beyond their control. These three scenes speak to the timeless impulse to wish for what you don’t have and to blind to what you do have.",
+      "description": "# Shown as part of the PIKSEL Festival for Free/Open Source Art & Technology / November 2021\n\n*Everyone Is Trapped in Someone Else's Paradise* is a video installation of three looping animations, made in Blender with photoscanned assets from the Quixel Megascans library.\n\nEach loop is a portrait of a being that can't get away. In every scene a figure grown through with bent and broken antennae is stranded on a scrap of rubble in an open sky. Above it, something vast and golden pours, points and presides, and somewhere in every scene a fire is burning.\n\nIn *Pick Up What It Drops*, a gold skull pours black into an open hand, which spills it over a body impaled on a city tree. In *Seemingly Senseless Acts*, a gold hand thick with rifles points down at a single tuft of grass while a figure tosses beside a campfire below. In *Never Had Much Interest in the Happy Ones*, a bird-headed figure sits on top of a stone tower while a white skull pours gold down the wall toward a burning car.\n\nNone of these scenes resolves. Each one just begins again. The work is about an old impulse: wanting what you don't have and not seeing what you do. Every world here is someone else's idea of paradise, and from the inside it's hard to tell whether you're being given everything or being kept from everything.",
       "media": [
         {
           "type": "image",
@@ -198,26 +198,29 @@
         {
           "type": "video",
           "src": "imgs/trapped/trapped1.mp4",
-          "alt": "",
+          "alt": "Pick Up What It Drops",
           "loop": false,
           "poster": "imgs/trapped/trapped1-poster.jpg",
-          "width": "third"
+          "width": "third",
+          "caption": "**Pick Up What It Drops**\n\nA body lies on its back, run through by a tree. The antennae grown into its limbs are still listening. The tree's roots grip broken sidewalk, a small island of green in a sea of concrete, and its crown is on fire where it bursts from the belly. High above, a gold skull tips black into an open hand. The hand passes it on, over the body and down to a gravel hexagon, where it pools. Three figures stand there warming themselves at burning barrels. They fall together, all at once, as if someone fired. Then it begins again."
         },
         {
           "type": "video",
           "src": "imgs/trapped/trapped2.mp4",
-          "alt": "",
+          "alt": "Seemingly Senseless Acts",
           "loop": false,
           "poster": "imgs/trapped/trapped2-poster.jpg",
-          "width": "third"
+          "width": "third",
+          "caption": "**Seemingly Senseless Acts**\n\nA giant gold hand reaches down from the sky. It's covered in blood-red rifles the way a tree is covered in leaves, and they sway and shiver in the wind. One finger points toward the ground and stops just short of a single tuft of grass, the only living thing on a patch of rubble and trash. The touch never quite comes.\n\nUnderneath, beside a small fire, a figure tosses and turns and can't find sleep. It's caught in its own bent and twisted antennae, wired so deep into the signal that it can't tell where it ends and the equipment begins. Loose paper whirls around it like the pages of letters no one finished reading. The hand keeps pointing, the grass keeps growing, and the sleeper keeps turning over."
         },
         {
           "type": "video",
           "src": "imgs/trapped/trapped3.mp4",
-          "alt": "",
+          "alt": "Never Had Much Interest in the Happy Ones",
           "loop": false,
           "poster": "imgs/trapped/trapped3-poster.jpg",
-          "width": "third"
+          "width": "third",
+          "caption": "**Never Had Much Interest in the Happy Ones**\n\nAt the top of a stone tower sits a bird-headed thing, shoulders down, its body grown through with antennae bent past any signal. Beside it lies a small red game, set down mid-play and never picked up again. Behind it a dead tree claws up through the stone, and around the tree's bare crown a slow halo of swords keeps turning, always pointed and never falling.\n\nHalfway down, a white skull pushes out of the wall and spills gold, steady as a fountain in a square nobody visits. The gold runs down to a field of rubble. In the middle a car burns, cradled in a half-ring of columns, as if someone built a temple around the wreck and then forgot what they were worshipping.\n\nBehind everything, a woman's stone face turns slowly through the dusk. She is too large to be a person and too patient to be a god. She has seen all of this before, and she will see it again."
         }
       ]
     },

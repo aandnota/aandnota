@@ -720,6 +720,7 @@
       <li class="img-item">
         <div class="img-thumb" data-path="${esc(hasFile(img) ? img.src : '')}">${mediaPreview(img)}${img === banner ? '<span class="badge">Banner</span>' : ''}${isVideo(img) ? `<span class="badge video">▶ ${kind[img.type]}</span>` : ''}</div>
         <input data-img-alt="${i}" value="${esc(img.alt)}" placeholder="${isVideo(img) ? 'Video title (for screen readers)' : 'Alt text (describe the image)'}">
+        ${img === banner ? '' : `<textarea data-img-caption="${i}" rows="3" placeholder="Caption shown below (optional). Same formatting as the description.">${esc(img.caption)}</textarea>`}
         ${img.type === 'video' ? `<label class="check small"><input type="checkbox" data-action="video-loop" data-i="${i}" ${img.loop ? 'checked' : ''}> Play silently on repeat (like a GIF)</label>` : ''}
         ${img === banner ? '' : widthPicker(img, i)}
         <div class="img-actions">${moveButtons(i, all)}
@@ -823,6 +824,11 @@
       markDirty();
     }
     else if (t.dataset.imgAlt) { data.projects[view.index].media[+t.dataset.imgAlt].alt = t.value; markDirty(); }
+    else if (t.dataset.imgCaption) {
+      const m = data.projects[view.index].media[+t.dataset.imgCaption];
+      if (t.value.trim()) m.caption = t.value; else delete m.caption;
+      markDirty();
+    }
     else if (t.dataset.textBody) { data.projects[view.index].media[+t.dataset.textBody].body = t.value; markDirty(); }
     else if (t.dataset.link) { data.links[+t.dataset.link][t.dataset.key] = t.value; markDirty(); }
     else if (t.dataset.page) {

@@ -185,9 +185,13 @@
       projectGrid(projects.filter((x) => x !== p), 'Other Projects'));
   }
 
-  /** One image, video or text block on a project page, at full, half or third width. */
+  /** One image, video or text block on a project page, at full, half or third width.
+   *  Images and videos with a `caption` get it shown underneath (same formatting as the description). */
   function mediaItem(m, title) {
-    const node = mediaNode(m, title);
+    let node = mediaNode(m, title);
+    if (m.type !== 'text' && m.caption && m.caption.trim()) {
+      node = el('figure', { class: 'captioned' }, node, el('figcaption', {}, richText(m.caption, 'rich caption')));
+    }
     node.classList.add(`w-${m.type === 'text' ? 'full' : m.width || 'full'}`);
     return node;
   }
